@@ -17,3 +17,4 @@ MVVM 패턴을 예쁘게 사용해보고자 합니다.
 - Cosmos (별점 UI 라이브러리)
 
 ## 앱 시현
+<img src="https://github.com/Oreonhard/AppStoreSearch/blob/main/README/app.gif?raw=true" width="30%" height="10%"></img>
